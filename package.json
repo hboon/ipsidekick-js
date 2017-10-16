@@ -1,0 +1,21 @@
+{
+  "name": "ipsidekick",
+  "version": "0.1.0",
+  "description": "https://ipsidekick.com wrapper",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "keywords": [
+    "ipsidekick.com",
+    "wrapper",
+    "nodejs"
+  ],
+  "repository": "git@github.com:hboon/ipsidekick-js.git",
+  "author": "Hwee-Boon Yar <hboon@motionobj.com> (http://hboon.com)",
+  "homepage": "https://github.com/hboon/ipsidekick-js",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
