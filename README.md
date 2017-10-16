@@ -62,4 +62,4 @@ resolveIP('17.142.160.59', (error, json) => {
 
 ## License
 
-MIT Hwee-Boon Yar <hboon@motionobj.com> (http://hboon.com)
+MIT Hwee-Boon Yar <hboon@motionobj.com> <http://hboon.com>
